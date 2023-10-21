@@ -15,11 +15,6 @@ Interio is your one-stop destination for all things interior design, offering a 
 - Add products to the shopping cart.
 - Checkout and place orders.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-Feel free to contribute, report issues, or suggest improvements. Happy shopping!
-
 ## Setup
 
 If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
@@ -34,6 +29,7 @@ git clone https://github.com/ShreyasSaunshi/interio
 
 - With the files open in Visual Studio Code, press the **Go Live** button at the bottom of the window to launch the files with [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
 
+## License
+This project is licensed under the [MIT License](LICENSE).
 
-
-
+Feel free to contribute, report issues, or suggest improvements. Happy shopping!
